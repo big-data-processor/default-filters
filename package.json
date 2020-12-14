@@ -1,0 +1,23 @@
+{
+  "name": "@big-data-processor/default-filters",
+  "version": "0.8.7",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chi Yang",
+  "license": "MIT",
+  "dependencies": {
+    "@big-data-processor/utilities": "^0.8.7",
+    "exceljs": "^3.10.0",
+    "lodash": "^4.17.20"
+  },
+  "big-data-processor": {
+    "name": "default-filters",
+    "type": "filters",
+    "author": "Chi Yang",
+    "email": "chiyang1118@gmail.com",
+    "description": "The default set of filter functions for the Workflow Playbook."
+  }
+}
