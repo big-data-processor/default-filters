@@ -1,6 +1,6 @@
 {
   "name": "@big-data-processor/default-filters",
-  "version": "0.8.7",
+  "version": "0.8.8",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,9 +9,9 @@
   "author": "Chi Yang",
   "license": "MIT",
   "dependencies": {
-    "@big-data-processor/utilities": "^0.8.7",
-    "exceljs": "^3.10.0",
-    "lodash": "^4.17.20"
+    "@big-data-processor/utilities": "^0.8.9",
+    "exceljs": "^4.3.0",
+    "lodash": "^4.17.21"
   },
   "big-data-processor": {
     "name": "default-filters",
